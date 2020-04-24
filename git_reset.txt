@@ -1,0 +1,4 @@
+For Windows User: 
+Follow Instructions 
+Control Panel>>User Account>>Crediential Manager>>Windows Credentials>>Generic Credientials 
+Remove git credientials.
